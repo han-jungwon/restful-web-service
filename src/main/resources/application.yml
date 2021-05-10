@@ -4,3 +4,7 @@ server:
 logging:
   level:
     org.spring.framework: DEBUG
+
+spring:
+  messages:
+    basename: messages
